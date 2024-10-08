@@ -11,41 +11,28 @@ Prerequisites
 Node.js installed on your machine
 Expo Go app installed on your mobile device (available on iOS and Android)
 Installation
-Clone the repository:
 
-bash
-Copy code
+Clone the repository:
 git clone https://github.com/akasohaill/TODO-APP.git
 cd mytodoapp
-Install dependencies:
 
-bash
-Copy code
+Install dependencies:
 npm install
+
 Running the App
 You can run the app on an emulator or your physical device:
 
 Start the Expo server:
-
-bash
-Copy code
 npm start
-For Android:
 
-bash
-Copy code
+For Android:
 npm run android
 For iOS:
-
-bash
-Copy code
 npm run ios
 For Web:
-
-bash
-Copy code
 npm run web
 Opening the App
+
 After starting the Expo server, you will see a QR code in your terminal or browser.
 Open the Expo Go app on your mobile device.
 Scan the QR code to open the app.
