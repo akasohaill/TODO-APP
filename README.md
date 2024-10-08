@@ -1,4 +1,6 @@
 My Todo App
+
+
 A simple Todo application built with React Native using Expo. This app allows users to manage their daily tasks, add new tasks, and mark tasks as completed.
 
 Features
