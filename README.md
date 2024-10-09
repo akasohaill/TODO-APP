@@ -12,6 +12,7 @@ Getting Started
 Prerequisites
 Node.js installed on your machine
 Expo Go app installed on your mobile device (available on iOS and Android)
+
 Installation
 
 Clone the repository:
