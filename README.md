@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 git clone https://github.com/akasohaill/TODO-APP.git
 
-cd mytodoapp
+cd todoapp
 
 Install dependencies:
 npm install
